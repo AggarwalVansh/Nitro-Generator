@@ -1,0 +1,23 @@
+{
+  "name": "nitro-generator",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AggarwalVansh/Password-Generator.git"
+  },
+  "author": "Vansh Aggarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AggarwalVansh/Password-Generator/issues"
+  },
+  "homepage": "https://github.com/AggarwalVansh/Password-Generator#readme",
+  "dependencies": {
+    "random-string-generator": "^1.0.1"
+  },
+  "devDependencies": {}
+}
